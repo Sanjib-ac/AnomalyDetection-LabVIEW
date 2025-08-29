@@ -13,6 +13,7 @@
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="recordVideo.vi" Type="VI" URL="../recordVideo.vi"/>
+		<Item Name="testLoad.vi" Type="VI" URL="../testLoad.vi"/>
 		<Item Name="Dependencies" Type="Dependencies"/>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
